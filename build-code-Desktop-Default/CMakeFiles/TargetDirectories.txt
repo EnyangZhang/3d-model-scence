@@ -1,0 +1,3 @@
+/home/cosc/student/ezh15/Desktop/Assignment1/build-code-Desktop-Default/CMakeFiles/rebuild_cache.dir
+/home/cosc/student/ezh15/Desktop/Assignment1/build-code-Desktop-Default/CMakeFiles/Assignment1.out.dir
+/home/cosc/student/ezh15/Desktop/Assignment1/build-code-Desktop-Default/CMakeFiles/edit_cache.dir
